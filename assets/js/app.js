@@ -364,6 +364,7 @@ const dashboard = function () {
     const _getData = function () {
         get('http://localhost:3000/timetrack').then((datas) => {
             data = datas;
+            console.log(data);
         });
     }
 
