@@ -1,5 +1,5 @@
 # Project Link
-[brkcnulusy](https://brkcnulusy.github.io/Time-Tracking-Dashboard/)
+[brkcnulusy](https://time-tracking-dashboard-lpbn5alf4-burak-can-s-projects.vercel.app/)
 
 # Frontend Mentor - Time tracking dashboard
 
